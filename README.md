@@ -102,7 +102,7 @@ The web page works as designed and overall, is pretty good. There is one fairly 
 
 ### Drawback
 the filters are not forgiving at all to the way a user might enter a filter value. The capitalization and spelling need to be an exact match to the data. This is not very user friendly.
-Looking at figure 8, if el cajon is entered, like pictured in the city filter, it works fine.
+Looking at figure 8, if el cajon is entered like pictured in the city filter, it works fine.
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/drawback1.png)
 
 
@@ -128,7 +128,7 @@ Figure 10
 
 Figure 11
 
-2. Its not intuitive to know that one can click on the "UFO Sightings to reset the table. The code in figure 12 add text to make this known and is shown in figure 13
+2. Its not intuitive to know that one can click on the "UFO Sightings to reset the table. The code in figure 12 adds text to make this known and is shown in figure 13
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/reset_code.png)
 
 Figure 12
