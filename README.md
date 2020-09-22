@@ -101,8 +101,8 @@ Figure 7
 The web page works as designed and overall, is pretty good. There is one fairly material drawback to this web page though.
 
 ### Drawback
-the filters are not forgiving at all to the way a user might enter a filter value. The capitalization and spelling need to be exact. This is not very user friendly.
-Looking at figure 8, if el cajon is entered in the city filter it works fine.
+the filters are not forgiving at all to the way a user might enter a filter value. The capitalization and spelling need to be an exact match to the data. This is not very user friendly.
+Looking at figure 8, if el cajon is entered, like pictured in the city filter it works fine.
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/drawback1.png)
 
 
