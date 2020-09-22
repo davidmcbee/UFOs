@@ -3,7 +3,7 @@
 Dana, a data journalist, is given the opportunity to write about her home town, McMinnville,
 Oregon. McMinnville is noted for UFO sightings and has a yearly gathering on the subject. A subject
 that Dana is very interested in she dives in to create an analysis and web site to show that analysis.
-Her only source of material is a Java Script file filled with UFO sighting information. This java Script file is available here (data.js)
+Her only source of material is a Java Script file filled with UFO sighting information. This java Script file is available here (https://github.com/davidmcbee/UFOs/blob/master/static/js/data.js)
 
 ## Overview of analysis
 The data.js file has an array of information on sightings. Each sighting has the date it occurred on, the city, the state, the country,
@@ -13,10 +13,10 @@ Dana's project will consist of a neat looking web page that will consist of this
 
 ### Analysis Steps
 The products needed to produce this are:
-* The data.js file, available here (data.js)
-* The index.html file that will display the data on a web page, available here (index.html)
-* A style.css file that will help her style the web page, available here (style.css)
-* A app.js file, to put it altogether, available here (app,js)
+* The data.js file, available here (https://github.com/davidmcbee/UFOs/blob/master/static/js/data.js)
+* The index.html file that will display the data on a web page, available here (https://github.com/davidmcbee/UFOs/blob/master/index.html)
+* A style.css file that will help her style the web page, available here (https://github.com/davidmcbee/UFOs/blob/master/static/css/style.css)
+* A app.js file, to put it altogether, available here (https://github.com/davidmcbee/UFOs/blob/master/static/js/app.js)
 
 #### The app.js file
 
