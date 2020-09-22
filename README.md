@@ -58,7 +58,7 @@ Figure 1
 note that all the data is in the table but this figure is cut off so it will fit in this readme appropriately.
 
 #### Filters
-using the filter lets start with just looking at the entire data. Notice in the initial look, the placeholder date value is 1/10/201, Lets change that to 1/9/2010. See figure 2
+using the filter lets start with just looking at date. Notice in the initial look, the placeholder date value is 1/10/201, Lets change that to 1/9/2010. See figure 2
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/date_filter.png)
 
 Figure 2
