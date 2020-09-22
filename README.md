@@ -79,7 +79,7 @@ Figure 4
 
 In figure 4 you can now see there are 10 entries. Originally there were 11 but one was in Canada (ca) so its not shown here.
 
-Now, leaving the data and country filter in place lets filter down to state. We'll use California (ca). See figure 5.
+Now, leaving the date and country filter in place lets filter down to state. We'll use California (ca). See figure 5.
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/ca_filter.png)
 
 Figure 5
