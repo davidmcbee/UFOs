@@ -102,7 +102,7 @@ The web page works as designed and overall, is pretty good. There is one fairly 
 
 ### Drawback
 the filters are not forgiving at all to the way a user might enter a filter value. The capitalization and spelling need to be an exact match to the data. This is not very user friendly.
-Looking at figure 8, if el cajon is entered, like pictured in the city filter it works fine.
+Looking at figure 8, if el cajon is entered, like pictured in the city filter, it works fine.
 ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/drawback1.png)
 
 
@@ -113,7 +113,8 @@ But if were to use correct chaptalization nothing would show up. See figure 9
 
 
 Figure 9
-To improve this performance code should be written that transforms the entry into lower case. This way it would be consistent with the data, what is needed but allow
+
+To improve this performance code should be written that transforms the entry into lower case. This way it would be consistent with the data that is needed but allow
 some flexibility. I tried to use the loose equality "==" versus strict equality "===" but that doesn't work here. It would work if what was entered was a different data type
 but that is not the case. Both the data and the entry are strings.
 
