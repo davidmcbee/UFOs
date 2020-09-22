@@ -52,7 +52,7 @@ Additionally each section is styled using a combination of styling, some applied
 file is very useful in that it allows for containerization. This way if Dana wants to change the style of the web page but keep the basic parts she can just change
 the style sheet. Also, if she ever builds a second web page, she can re-use the style.css file and now both web pages will have a consistent look.
 ## Results
-The web page looks like this ![](initial look)
+The web page looks like this ![](https://github.com/davidmcbee/UFOs/blob/master/static/images/initial_wp.png)
 
 Figure 1
 
@@ -60,34 +60,35 @@ note that all the data is in the table but this figure is cut off so it will fit
 
 #### Filters
 using the filter lets start with just looking at the entire data. Notice in the initial look, the placeholder date value is 1/10/201, Lets change that to 1/9/2010. See figure 2
-![](date_filter)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/date_filter.png)
 
 Figure 2
 
 You can see that there are now 11 entries.
 
 Using the city filter while leaving the date filter as is, we'll filter on Cleveland, See figure 3.
-![](city_filter)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/city_filter.png)
 
 Figure 3
 
 In figure 3, you can now see only one entry. Cleveland doesn't appear to get many UFOs.
 
 Lets remove the city filter and skip down to the country filter. Here we'll filter on the us. See figure 4.
-![](country_filter)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/country_filter.png)
 
 Figure 4
 
 In figure 4 you can now see there are 10 entries. Originally there were 11 but one was in Canada (ca) so its not shown here.
 
 Now, leaving the data and country filter in place lets filter down to state. We'll use California (ca). See figure 5.
-![](ca_filter)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/ca_filter.png)
 
 Figure 5
 
 In figure 5 you can now see two entries, both in California. Now for the last filter. lets filter down one more level and pick UFOS that are shaped like triangles.
 See figure 6
-![](shape_filter)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/shape_filter.png
+)
 
 Figure 6
 
