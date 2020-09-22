@@ -87,15 +87,14 @@ Figure 5
 
 In figure 5 you can now see two entries, both in California. Now for the last filter. lets filter down one more level and pick UFOS that are shaped like triangles.
 See figure 6
-![](https://github.com/davidmcbee/UFOs/blob/master/static/images/shape_filter.png
-)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/shape_filter.png)
 
 Figure 6
 
 In figure 6 we see the only triangle shaped UFO, in California on 1/9/2010. 
 
 One last image. To reset the table back to the entire table, go back to the beginning. just click the "UFO Sightings text in the top left of the web page. Figure 7.
-![](reset)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/reset.png)
 
 Figure 7
 
@@ -105,13 +104,13 @@ The web page works as designed and overall, is pretty good. There is one fairly 
 ### Drawback
 the filters are not forgiving at all to the way a user might enter a filter value. The capitalization and spelling need to be exact. This is not very user friendly.
 Looking at figure 8, if el cajon is entered in the city filter it works fine.
-![](drawback1)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/drawback1.png)
 
 
 Figure 8
 
 But if were to use correct chaptalization nothing would show up. See figure 9
-![](drawback2)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/drawback2.png)
 
 
 Figure 9
@@ -121,19 +120,19 @@ but that is not the case. Both the data and the entry are strings.
 
 ### Additional recommendations
 1. The filter entry blocks are not all aligned due to the different length of text. By adding the code shown here in Figure 10 to the style.css file. the input fields are aligned and look much neater. See figure 11.
-![](css_code)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/filter_block_css.png)
 
 Figure 10
 
-![](filter_block_aligned)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/filter_block_aligned.png)
 
 Figure 11
 
 2. Its not intuitive to know that one can click on the "UFO Sightings to reset the table. The code in figure 12 add text to make this known and is shown in figure 13
-![](reset code)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/reset_code.png)
 
 Figure 12
-![](reset image)
+![](https://github.com/davidmcbee/UFOs/blob/master/static/images/reset_image.png)
 
 Figure 13
 
